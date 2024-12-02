@@ -2,10 +2,6 @@
 
 /* dispositivo em pé (portrait) */
 
-* {
-    margin: 0px;
-    padding: 0px;
-}
 
 body {
     background-image: url(../imagens/cev-portrait.jpg);
